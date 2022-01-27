@@ -1,6 +1,5 @@
 - Hi, I’m Njord or @jedinorog on github
-- I’m interested in machine learning
-- I’m currently learning advanced machine learning
+- I’m currently working on some practical projects.
 
 <!---
 jedinorog/jedinorog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
